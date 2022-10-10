@@ -1,2 +1,1 @@
-# cse110lab2
-lab2
+https://calciner.github.io/cse110lab2/
